@@ -1,14 +1,14 @@
 import React from 'react';
-import Card from '../components/Card';
+import Gif from '../components/Gif';
 
-const CardList = (props) => {
+const GifList = (props) => {
 	const { gifs } = props;
 	return (
 	    <div className='tc'>
 	    	{
 		    gifs.map((image) => {
 			return ( 
-				<Card 
+				<Gif 
 					key={image.id} 
 					gif={image} 
 				/>
@@ -19,4 +19,4 @@ const CardList = (props) => {
   );
 }
 
-export default CardList;
+export default GifList;
