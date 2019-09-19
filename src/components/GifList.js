@@ -6,11 +6,12 @@ const GifList = (props) => {
 	return (
 	    <div className='tc'>
 	    	{
-		    gifs.map((image) => {
+		    gifs.map((gif) => {
 			return ( 
 				<Gif 
-					key={image.id} 
-					gif={image} 
+					key={gif.id} 
+					image={gif.images.downsized.url}
+					
 				/>
 				);
 			})
@@ -20,3 +21,4 @@ const GifList = (props) => {
 }
 
 export default GifList;
+
