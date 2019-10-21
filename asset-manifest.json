@@ -1,0 +1,18 @@
+{
+  "files": {
+    "main.css": "/giphysearch/static/css/main.53752d27.chunk.css",
+    "main.js": "/giphysearch/static/js/main.5198813e.chunk.js",
+    "main.js.map": "/giphysearch/static/js/main.5198813e.chunk.js.map",
+    "runtime~main.js": "/giphysearch/static/js/runtime~main.2ce7761d.js",
+    "runtime~main.js.map": "/giphysearch/static/js/runtime~main.2ce7761d.js.map",
+    "static/css/2.31dafeb2.chunk.css": "/giphysearch/static/css/2.31dafeb2.chunk.css",
+    "static/js/2.03367fa3.chunk.js": "/giphysearch/static/js/2.03367fa3.chunk.js",
+    "static/js/2.03367fa3.chunk.js.map": "/giphysearch/static/js/2.03367fa3.chunk.js.map",
+    "index.html": "/giphysearch/index.html",
+    "precache-manifest.1f5a14dd2e665c55c05f691d8de979f5.js": "/giphysearch/precache-manifest.1f5a14dd2e665c55c05f691d8de979f5.js",
+    "service-worker.js": "/giphysearch/service-worker.js",
+    "static/css/2.31dafeb2.chunk.css.map": "/giphysearch/static/css/2.31dafeb2.chunk.css.map",
+    "static/css/main.53752d27.chunk.css.map": "/giphysearch/static/css/main.53752d27.chunk.css.map",
+    "static/media/App.css": "/giphysearch/static/media/SEGA.12a3db8b.woff"
+  }
+}
