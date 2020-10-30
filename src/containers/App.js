@@ -19,7 +19,6 @@ class App extends Component {
       fgifs: [],
       searchfield: "",
     };
-    //this.onSearchChange = this.onSearchChange.bind(this);
   }
 
   componentDidMount() {
